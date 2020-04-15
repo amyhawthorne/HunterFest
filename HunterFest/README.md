@@ -1,0 +1,1 @@
+This is a repo of a small project for a friend's non-profit event
